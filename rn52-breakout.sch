@@ -36,10 +36,10 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
+Title "RN52 breakout"
 Date "24 apr 2014"
-Rev ""
-Comp ""
+Rev "1"
+Comp "wot.lv"
 Comment1 ""
 Comment2 ""
 Comment3 ""
