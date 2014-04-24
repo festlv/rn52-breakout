@@ -1,0 +1,108 @@
+Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = ceturtdiena, 2014. gada 24. aprīlis, plkst. 22 un 32
+
+BeginCmp
+TimeStamp = /53594849;
+Reference = D1;
+ValeurCmp = DIODE;
+IdModule  = D3;
+EndCmp
+
+BeginCmp
+TimeStamp = /535944C3;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /535944B6;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /53594812;
+Reference = F1;
+ValeurCmp = FUSE;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /53594AAA;
+Reference = K1;
+ValeurCmp = CONN_3;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /53594410;
+Reference = P1;
+ValeurCmp = CONN_4;
+IdModule  = PIN_ARRAY_4x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /535948D2;
+Reference = P2;
+ValeurCmp = CONN_2;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /53594A28;
+Reference = P3;
+ValeurCmp = CONN_2;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /53594462;
+Reference = P4;
+ValeurCmp = CONN_2;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /535946F7;
+Reference = R1;
+ValeurCmp = 240R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /535947B9;
+Reference = R2;
+ValeurCmp = 390R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5359455A;
+Reference = R3;
+ValeurCmp = 470R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53594560;
+Reference = R4;
+ValeurCmp = 470R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53594697;
+Reference = U1;
+ValeurCmp = LM317T;
+IdModule  = TO220_VERT;
+EndCmp
+
+BeginCmp
+TimeStamp = /535943AE;
+Reference = U2;
+ValeurCmp = RN52;
+IdModule  = RN52;
+EndCmp
+
+EndListe
