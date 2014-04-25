@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = ceturtdiena, 2014. gada 24. aprīlis, plkst. 23 un 02
+Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = Fri 25 Apr 2014 10:53:52 AM EEST
 
 BeginCmp
 TimeStamp = /53596F4F;
@@ -75,6 +75,13 @@ TimeStamp = /53596DE0;
 Reference = P5;
 ValeurCmp = FACTORY;
 IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /535A1030;
+Reference = P6;
+ValeurCmp = JC-115;
+IdModule  = JC-115;
 EndCmp
 
 BeginCmp

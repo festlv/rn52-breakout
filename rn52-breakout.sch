@@ -30,14 +30,14 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:RN52
-LIBS:rn52-breakout-cache
+LIBS:JC-115
 EELAYER 27 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "RN52 breakout"
-Date "24 apr 2014"
+Date "25 apr 2014"
 Rev "1"
 Comp "wot.lv"
 Comment1 ""
@@ -486,4 +486,38 @@ $EndComp
 Connection ~ 3200 1400
 Wire Wire Line
 	3200 2450 3200 1850
+$Comp
+L JC-115 P6
+U 1 1 535A1030
+P 9700 2650
+F 0 "P6" H 10150 2250 50  0000 C CNN
+F 1 "JC-115" H 10050 2950 50  0000 C CNN
+F 2 "MODULE" H 9700 2650 50  0001 C CNN
+F 3 "DOCUMENTATION" H 9700 2650 50  0001 C CNN
+	1    9700 2650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8900 2400 8900 2500
+Wire Wire Line
+	7400 2350 7400 2600
+Connection ~ 7400 2600
+Wire Wire Line
+	7650 2400 7650 2700
+Wire Wire Line
+	8500 2350 8500 2700
+Wire Wire Line
+	8500 2700 8900 2700
+Connection ~ 7650 2700
+Connection ~ 7800 2950
+Wire Wire Line
+	9700 3300 8300 3300
+Wire Wire Line
+	8300 3300 8300 2950
+Wire Wire Line
+	8300 2950 7800 2950
+Wire Wire Line
+	8900 2400 7650 2400
+Wire Wire Line
+	8500 2350 7400 2350
 $EndSCHEMATC

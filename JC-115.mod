@@ -1,0 +1,58 @@
+PCBNEW-LibModule-V1  Fri 25 Apr 2014 10:52:27 AM EEST
+# encoding utf-8
+Units mm
+$INDEX
+JC-115
+$EndINDEX
+$MODULE JC-115
+Po 0 0 0 15 535A1431 00000000 ~~
+Li JC-115
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1 1 0 0.15 N V 21 N "JC-115"
+T1 0 0 1 1 0 0.15 N V 21 N "VAL**"
+DS 3.5 -14 3.5 -15.3 0.15 21
+DS 3.5 -15.3 8.3 -15.3 0.15 21
+DS 8.3 -15.3 8.3 -14 0.15 21
+DS 11.43 0 0 0 0.15 21
+DS 0 0 0 -13.97 0.15 21
+DS 0 -13.97 11.43 -13.97 0.15 21
+DS 11.43 -13.97 11.43 0 0.15 21
+$PAD
+Sh "1" C 2 2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.3 -1.7
+$EndPAD
+$PAD
+Sh "2" C 2 2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 -8.7
+$EndPAD
+$PAD
+Sh "3" C 2 2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.2 -4.8
+$EndPAD
+$PAD
+Sh "4" C 2 2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.7 -6.2
+$EndPAD
+$PAD
+Sh "5" C 2 2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.1 -12.4
+$EndPAD
+$EndMODULE JC-115
+$EndLIBRARY
