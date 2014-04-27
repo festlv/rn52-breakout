@@ -14,3 +14,8 @@ The following functionality is broken out:
 
 Be warned- the PCB was designed for parts I had on hand and home-made production 
 process (single layer, fat tracks).
+
+I had wrong footprint for linear regulator at the first try- it's now been
+fixed in master.
+
+
